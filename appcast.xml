@@ -5,5 +5,18 @@
         <link>https://raw.githubusercontent.com/BSKapps/targettrace-updates/main/appcast.xml</link>
         <description>Target Trace update feed</description>
         <language>en</language>
+        <item>
+            <title>Version 1.0</title>
+            <description><![CDATA[<p>Bug fixes and performance improvements.</p>]]></description>
+            <pubDate>Sat, 09 May 2026 11:39:57 +0000</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/BSKapps/targettrace-updates/releases/download/v1.0/Target%20Trace%201.0.zip"
+                length="3213622"
+                type="application/octet-stream"
+                sparkle:edSignature="QOnTBEGMUzNmULlduXnNt1vL86hMbl45M1inlw/cAsdA9TX5e+96i5TEJD+lQ/Rxjuuqj19JEc8GKefPf68jDA==" />
+        </item>
     </channel>
 </rss>
