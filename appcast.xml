@@ -7,16 +7,15 @@
         <language>en</language>
         <item>
             <title>Version 1.0</title>
-            <description><![CDATA[<p>Bug fixes and performance improvements.</p>]]></description>
-            <pubDate>Sat, 09 May 2026 11:39:57 +0000</pubDate>
-            <sparkle:version>1</sparkle:version>
+            <pubDate>Sat, 10 May 2026 00:15:00 +0000</pubDate>
+            <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://github.com/BSKapps/targettrace-updates/releases/download/v1.0/Target.Trace.1.0.zip"
-                length="3213622"
+                length="3213732"
                 type="application/octet-stream"
-                sparkle:edSignature="QOnTBEGMUzNmULlduXnNt1vL86hMbl45M1inlw/cAsdA9TX5e+96i5TEJD+lQ/Rxjuuqj19JEc8GKefPf68jDA==" />
+                sparkle:edSignature="6hL1WTS83HZ+fz5pf3ROl2gThv/+gJw8qQJcMzKuitEo44L3jlpwLHzbhWbtGR9Xt2THbTsnuw6yMpsrvCYyAQ==" />
         </item>
     </channel>
 </rss>
