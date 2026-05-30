@@ -6,6 +6,19 @@
         <description>Target Trace update feed</description>
         <language>en</language>
 <item>
+            <title>Version 1.0.1</title>
+            <pubDate>Fri, 30 May 2026 09:35:00 +0000</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description>Fixes incorrect A and C frequency weighting at 0 Hz.</description>
+            <enclosure
+                url="https://github.com/BSKapps/targettrace-updates/releases/download/v1.0.1/Target.Trace.1.0.1.zip"
+                length="3221405"
+                type="application/octet-stream"
+                sparkle:edSignature="qcvImxFUF+zvL0XsVl1mGBJ742bPJS7774Tym76YO0CMMt8+XjwXyGiXICFIpb4BbsYd67Te9F0USlVnMBY+CA==" />
+        </item>
+<item>
             <title>Version 1.0</title>
             <pubDate>Sat, 10 May 2026 00:15:00 +0000</pubDate>
             <sparkle:version>2</sparkle:version>
