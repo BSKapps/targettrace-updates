@@ -5,6 +5,26 @@
         <link>https://raw.githubusercontent.com/BSKapps/targettrace-updates/main/appcast.xml</link>
         <description>Target Trace update feed</description>
         <language>en</language>
+        <item>
+            <title>1.1</title>
+            <pubDate>Sat, 20 Jun 2026 23:25:01 +1000</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+<ul>
+<li style="margin-bottom:6px">Wider point range: 16 Hz to 22 kHz (was 20 Hz–20 kHz)</li>
+<li style="margin-bottom:6px">Smooth drag-reorder for the curve list, plus right-click Move to Top/Up/Down/Bottom</li>
+<li style="margin-bottom:6px">New view-only ± dB tolerance band on overlays, and overlay controls grouped into one panel</li>
+<li style="margin-bottom:6px">Grid view now resets on launch</li>
+<li style="margin-bottom:6px">Redo (Cmd+Shift+Z)</li>
+<li style="margin-bottom:6px">Help menu: built-in Guide &amp; Keyboard Shortcuts</li>
+<li style="margin-bottom:6px">Undo now covers everything, not just points</li>
+<li style="margin-bottom:6px">Better file handling: banding round-trips, legacy files load, missing folder offers a re-pick</li>
+</ul>
+            ]]></description>
+            <enclosure url="https://github.com/BSKapps/targettrace-updates/releases/download/v1.1/Target.Trace.1.1.zip" length="3416511" type="application/octet-stream" sparkle:edSignature="q5wyrIYfvIdKP/BvuamKvIV9ZLp6/nQZnGaAc1XjVUn2amWuLedYAKnJGPBiHC4STBAatWY45Z6L/jNVxuS9Ag=="/>
+        </item>
 <item>
             <title>Version 1.0.1</title>
             <pubDate>Fri, 30 May 2026 09:35:00 +0000</pubDate>
