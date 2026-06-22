@@ -6,6 +6,22 @@
         <description>Target Trace update feed</description>
         <language>en</language>
         <item>
+            <title>1.2</title>
+            <pubDate>Mon, 22 Jun 2026 16:08:11 +1000</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+<ul>
+<li style="margin-bottom:6px">Overlays now match Smaart: each overlay sits at its own saved offset and shows its own saved tolerance band (TF only)</li>
+<li style="margin-bottom:6px">Overlay Offset: shift all overlays together to compare curve shapes (view only, never saved)</li>
+<li style="margin-bottom:6px">Match type now also focuses the library list to the curve you are editing; turn it off to browse and filter freely</li>
+<li style="margin-bottom:6px">OVERLAYS panel tidied: Show toggle on the title row, Tolerance is now a show/hide toggle</li>
+</ul>
+            ]]></description>
+            <enclosure url="https://github.com/BSKapps/targettrace-updates/releases/download/v1.2/Target.Trace.1.2.zip" length="3463233" type="application/octet-stream" sparkle:edSignature="UXn5ZQJZgNhV1Bu6ggY+XnA/PvRKTMlBvYKa31kyF8TcRORjOqtZF4S7GYp3X34daDQr20tksrSjZmUxZdSzBA=="/>
+        </item>
+        <item>
             <title>1.1</title>
             <pubDate>Sat, 20 Jun 2026 23:25:01 +1000</pubDate>
             <sparkle:version>5</sparkle:version>
