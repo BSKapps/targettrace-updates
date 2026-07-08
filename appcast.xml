@@ -6,6 +6,27 @@
         <description>Target Trace update feed</description>
         <language>en</language>
         <item>
+            <title>1.2.1</title>
+            <pubDate>Thu, 09 Jul 2026 00:52:03 +1000</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+<ul>
+<li style="margin-bottom:6px">Open a .crv from Finder: double-click a curve, or drop one on the app icon, to load it</li>
+<li style="margin-bottom:6px">In the library's All view, a curve can now be dragged to the last spot in its group (previously it snapped back)</li>
+<li style="margin-bottom:6px">Point Spacing "Restore" is now reliable after you load or switch a curve, and it resets the offset correctly</li>
+<li style="margin-bottom:6px">Holding Option+arrow against a limit no longer wipes your undo history</li>
+<li style="margin-bottom:6px">Pressing T or S while drawing with the pencil no longer mixes up the curve</li>
+<li style="margin-bottom:6px">The D pencil shortcut no longer gets swallowed after typing in a text field</li>
+<li style="margin-bottom:6px">Right-click library actions no longer act on the wrong curve if the list refreshes while the menu is open</li>
+<li style="margin-bottom:6px">Library order is kept safe if the folder index cannot be written</li>
+<li style="margin-bottom:6px">After closing Split View, Shift+arrow zoom no longer targets the hidden preview</li>
+</ul>
+            ]]></description>
+            <enclosure url="https://github.com/BSKapps/targettrace-updates/releases/download/v1.2.1/Target.Trace.1.2.1.zip" length="3480525" type="application/octet-stream" sparkle:edSignature="IQAEe+wuFxMLN/O6zL3aNOXh797WbO70dcaNTF+7C9vLrlQlGCZO6J0khwJLMHxKAmWJIz4a6YcNtKvesdqMCA=="/>
+        </item>
+        <item>
             <title>1.2</title>
             <pubDate>Mon, 22 Jun 2026 16:08:11 +1000</pubDate>
             <sparkle:version>6</sparkle:version>
