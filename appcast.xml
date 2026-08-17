@@ -6,6 +6,24 @@
         <description>Target Trace update feed</description>
         <language>en</language>
         <item>
+            <title>1.3</title>
+            <pubDate>Mon, 17 Aug 2026 15:35:17 +1000</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+<ul>
+<li style="margin-bottom:6px">Live Grab: connect to a running Smaart and pull a live RTA or transfer function trace straight into the editor as an editable target curve</li>
+<li style="margin-bottom:6px">Import Smaart ASCII trace exports: open the file, drop it on the graph, or copy in Smaart and paste with Cmd+V</li>
+<li style="margin-bottom:6px">Flatten Selected (Cmd+F): select a rough section and press to ease it toward a straight line</li>
+<li style="margin-bottom:6px">Hold Cmd+Up or Cmd+Down to keep offsetting the curve</li>
+<li style="margin-bottom:6px">The editor warns you if the file behind your loaded curve is deleted</li>
+<li style="margin-bottom:6px">Smaart loads target curves when it starts. To see a newly saved curve in a running Smaart, use Import in its Target Curves window, or restart Smaart</li>
+</ul>
+            ]]></description>
+            <enclosure url="https://github.com/BSKapps/targettrace-updates/releases/download/v1.3/Target.Trace.1.3.zip" length="3703110" type="application/octet-stream" sparkle:edSignature="7/umXhRnCYx0B0xowsQUqT4fgJpI8WRvx4zYDIXh0ywhMWOhfuff7I4mteNMysZWGbUe3qcrNp39TQFgzW5aAw=="/>
+        </item>
+        <item>
             <title>1.2.1</title>
             <pubDate>Thu, 09 Jul 2026 00:52:03 +1000</pubDate>
             <sparkle:version>7</sparkle:version>
