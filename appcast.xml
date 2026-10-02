@@ -6,6 +6,45 @@
         <description>Target Trace update feed</description>
         <language>en</language>
         <item>
+            <title>1.5</title>
+            <pubDate>Sat, 03 Oct 2026 00:12:11 +1000</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+<p style="font-weight:600;margin:12px 0 6px">What's New</p>
+<ul>
+<li style="margin-bottom:6px">Floating Trace: float a live Smaart trace in a see-through window over other apps, like the EQ page in LA Network Manager</li>
+<li style="margin-bottom:6px">Stretch it, or nudge it with the arrow keys, until its guides sit on the other app's graph, then lock it and click straight through</li>
+<li style="margin-bottom:6px">Blanking hides a live TF trace wherever coherence falls below the percentage you pick</li>
+<li style="margin-bottom:6px">Invert flips the trace upside down in magenta, Hold freezes it, and Show hides it without closing it</li>
+<li style="margin-bottom:6px">Right-click a library curve and choose Float This Curve to float a saved curve</li>
+<li style="margin-bottom:6px">Level, Scale and Smoothing set the floating trace's height, dB range and smoothing, and Scale is remembered for each app</li>
+<li style="margin-bottom:6px">The floating trace shrinks to fit small EQ graphs, with its controls and name underneath</li>
+<li style="margin-bottom:6px">Lock ties the floating trace to the window underneath: it moves with that window and hides while another window covers it</li>
+<li style="margin-bottom:6px">A menu bar icon lets you connect to Smaart, float a live trace or a recent saved curve, and control it without the editor</li>
+<li style="margin-bottom:6px">Live Grab is now Live Trace: the trace moves live on the editor graph, and Grab makes it your curve point for point; Grab to Editor does the same from the floating trace</li>
+<li style="margin-bottom:6px">Closing the editor window keeps Target Trace running in the menu bar</li>
+<li style="margin-bottom:6px">Lots of small interface improvements</li>
+</ul>
+<p style="font-weight:600;margin:12px 0 6px">Fixes</p>
+<ul>
+<li style="margin-bottom:6px">Quitting after a REW export now still warns about unsaved changes</li>
+<li style="margin-bottom:6px">Typing a point's Freq or Level now waits for Enter before moving anything, and Esc no longer deselects</li>
+<li style="margin-bottom:6px">Curves with more than 200 points now show their points instead of just the line</li>
+<li style="margin-bottom:6px">Undo after saving under a new name no longer brings back the old name</li>
+<li style="margin-bottom:6px">Point Spacing Apply with nothing to change no longer adds an undo step</li>
+<li style="margin-bottom:6px">The Live Trace list now shows every measurement straight after connecting</li>
+<li style="margin-bottom:6px">New windows open wide enough to show every toolbar button</li>
+</ul>
+<p style="font-weight:600;margin:12px 0 6px">Known Issues</p>
+<ul>
+<li style="margin-bottom:6px">None known</li>
+</ul>
+            ]]></description>
+            <enclosure url="https://github.com/BSKapps/targettrace-updates/releases/download/v1.5/Target.Trace.1.5.zip" length="4115845" type="application/octet-stream" sparkle:edSignature="ciqv5bA5oOTcl3qXXvfun3UX6z9QIPSm5s0iVv7GAUxZghM/2+ezwCfg7EbcoDXt2jPXx3chAqWyvO07fbdYBg=="/>
+        </item>
+        <item>
             <title>1.4</title>
             <pubDate>Fri, 18 Sep 2026 10:56:59 +1000</pubDate>
             <sparkle:version>10</sparkle:version>
