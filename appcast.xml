@@ -6,6 +6,45 @@
         <description>Target Trace update feed</description>
         <language>en</language>
         <item>
+            <title>1.6</title>
+            <pubDate>Fri, 30 Oct 2026 21:41:29 +1100</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>1.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+<p style="font-weight:600;margin:12px 0 6px">What's New</p>
+<ul>
+<li style="margin-bottom:6px">Bend Down and Bend Up arc the selected points between the outer two, a little more each press</li>
+<li style="margin-bottom:6px">Shift-Option-up and down nudge the selected points 0.1 dB</li>
+<li style="margin-bottom:6px">With every point selected, Option-up and down show in Offset, like Cmd-up and down</li>
+<li style="margin-bottom:6px">Scale button picks the TF dB range; TF now opens at +42 to -42, or +30 to -30 in Split</li>
+<li style="margin-bottom:6px">RTA shows a line every 6 dB, like Smaart</li>
+<li style="margin-bottom:6px">Zoomed all the way out, the frequency labels are Smaart's octaves, 31.5 to 16k</li>
+<li style="margin-bottom:6px">Floating Trace can show a saved TF target behind a live TF trace</li>
+<li style="margin-bottom:6px">Smooth rounds off small wiggles in a curve, a little more each press</li>
+<li style="margin-bottom:6px">Right-click a curve in the library to rename it</li>
+<li style="margin-bottom:6px">Click Scale, Smoothing, Blanking or Target in the Floating Trace bar to pick from a list</li>
+<li style="margin-bottom:6px">One Haystack preset now sets its own lift and flat-from frequency</li>
+<li style="margin-bottom:6px">The menu bar no longer lists recent curves; float a saved curve from the library</li>
+<li style="margin-bottom:6px">The menu bar icon flashes green when Smaart connects and red when the connection fails</li>
+</ul>
+<p style="font-weight:600;margin:12px 0 6px">Fixes</p>
+<ul>
+<li style="margin-bottom:6px">An RTA grabbed at 1/6, 1/12, 1/24 or 1 Oct now sits at the right level in Smaart</li>
+<li style="margin-bottom:6px">With Smoothing Off on an RTA, Grab is greyed out; pick a Smoothing first</li>
+<li style="margin-bottom:6px">A TF curve switched from an RTA curve and saved now shows up in Smaart</li>
+<li style="margin-bottom:6px">Saving over a curve with only its capitals changed now renames it to match</li>
+<li style="margin-bottom:6px">When zoomed in, or with a TF curve up to 42 dB from 0, loading no longer shifts its levels</li>
+<li style="margin-bottom:6px">The Save box can no longer get lost behind the window</li>
+</ul>
+<p style="font-weight:600;margin:12px 0 6px">Known Issues</p>
+<ul>
+<li style="margin-bottom:6px">None known</li>
+</ul>
+            ]]></description>
+            <enclosure url="https://github.com/BSKapps/targettrace-updates/releases/download/v1.6/Target.Trace.1.6.zip" length="4264007" type="application/octet-stream" sparkle:edSignature="waFmj7sAkmqTR9IkQydwcsPCCx+s9SJxrE0z6WH16fl89BRrnq3eaFYMdpv5s9rRyankLmGo+JWlbSegwjEXCg=="/>
+        </item>
+        <item>
             <title>1.5</title>
             <pubDate>Sat, 03 Oct 2026 00:12:11 +1000</pubDate>
             <sparkle:version>11</sparkle:version>
