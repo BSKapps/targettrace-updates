@@ -6,6 +6,40 @@
         <description>Target Trace update feed</description>
         <language>en</language>
         <item>
+            <title>1.7</title>
+            <pubDate>Wed, 04 Nov 2026 13:30:57 +1100</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>1.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+<p style="font-weight:600;margin:12px 0 6px">What's New</p>
+<ul>
+<li style="margin-bottom:6px">My Presets keeps your own starting curves, out of Smaart's list: right-click a curve and Save as User Preset</li>
+<li style="margin-bottom:6px">New from Preset in the sidebar is now Presets</li>
+<li style="margin-bottom:6px">Tilt Down and Tilt Up lean part of a curve: the left selected point stays, the right end moves</li>
+<li style="margin-bottom:6px">Shift-Option-left and right nudge the selected points a small step</li>
+<li style="margin-bottom:6px">Offset in the right sidebar is now called Level</li>
+<li style="margin-bottom:6px">Shift-click Bend, Tilt, Flatten or Level for a smaller step</li>
+<li style="margin-bottom:6px">Cmd-Shift-up and down shift the whole curve 0.1 dB</li>
+<li style="margin-bottom:6px">Cmd-Shift-left and right extend the point selection</li>
+<li style="margin-bottom:6px">Shift-left and right move the graph down and up</li>
+<li style="margin-bottom:6px">Cmd-C copies a curve, Cmd-V pastes it back</li>
+</ul>
+<p style="font-weight:600;margin:12px 0 6px">Fixes</p>
+<ul>
+<li style="margin-bottom:6px">Pasting or opening a Smaart RTA trace at SPL levels now lands at the right level for your TF Ref</li>
+<li style="margin-bottom:6px">Floating Trace updates more smoothly</li>
+<li style="margin-bottom:6px">Changing Smoothing on a floating RTA no longer makes the line jump and slide back</li>
+<li style="margin-bottom:6px">With the library list scrolled down, ticking an overlay or saving a curve no longer moves the list</li>
+</ul>
+<p style="font-weight:600;margin:12px 0 6px">Known Issues</p>
+<ul>
+<li style="margin-bottom:6px">None known</li>
+</ul>
+            ]]></description>
+            <enclosure url="https://github.com/BSKapps/targettrace-updates/releases/download/v1.7/Target.Trace.1.7.zip" length="4371259" type="application/octet-stream" sparkle:edSignature="5Xx4S09qywtrn27q4aKyEdlOH1epTjGIuNCrzv3oIYqrfTpsHzE15dnjn78ceQddR/ayTmwIgJVPuBWVxxM/Aw=="/>
+        </item>
+        <item>
             <title>1.6</title>
             <pubDate>Fri, 30 Oct 2026 21:41:29 +1100</pubDate>
             <sparkle:version>12</sparkle:version>
